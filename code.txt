@@ -1,11 +1,12 @@
 Recipe Book
 
 Cake Recipe
-1) Add Milk
+1) Add flour
+2) Add milk and water
 
 
 Soup Recipe
-1)Add water
+1) Add water
 2) Add salt
 3) Add meet
 4) Cook
